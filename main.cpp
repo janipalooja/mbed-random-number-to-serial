@@ -19,7 +19,7 @@ int main() {
 			  seed <<= 1;
 			  seed |= 1;
 		  }
-      else {
+      		else {
 			  seed <<= 1;
 		  }
       
